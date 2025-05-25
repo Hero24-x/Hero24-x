@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shibnath Hansda</h1>
-<h3 align="center" style="color: #00ff00;"><b>A passionate Ethical Hacker form INDIA</b></h3>
+<h3 align="center"><b>A passionate Ethical Hacker form INDIA</b></h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hero24-x&label=Profile%20views&color=0e75b6&style=flat" alt="hero24-x" /> </p>
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/codesantali" target="blank"><img src="https://img.shields.io/twitter/follow/codesantali?logo=twitter&style=for-the-badge" alt="codesantali" /></a> </p>
 
-- ⚡ Fun fact **🥳**
+- <b>⚡ Fun fact **🥳** </b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
