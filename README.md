@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shibnath Hansda</h1>
-<h3 align="center">A passionate Ethical Hacker form INDIA</h3>
+<h3 align="center"><b>A passionate Ethical Hacker form INDIA</b></h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hero24-x&label=Profile%20views&color=0e75b6&style=flat" alt="hero24-x" /> </p>
