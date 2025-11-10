@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently: Student
-- 🌱 I’m currently: learning Cybersecurity Analyst IBM
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working: Exploring Blue Team & Red Team operations
+- 🌱 I’m currently: Ethical Hacking & Threat Analysis through hands-on labs
+- 👯 I’m looking to collaborate on cybersecurity projects and open-source tools.
+- 🤔 I’m looking for help with mastering Blue Teaming and Threat Hunting
 - 💬 Ask me about ...
 - 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him ⚔️ | Cyber Defender
+- ⚡ Fun fact: I break things to make them safer 😎
 -->
 
 
