@@ -1,4 +1,5 @@
-## Shibnath Hansda 👋
+<h1 style="font-size: 40px;"> SHIBNATH HANSDA 👋 </h1>
+ Shibnath Hansda 👋
 
 <!--
 **Hero24-x/Hero24-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
