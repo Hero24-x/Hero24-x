@@ -1,4 +1,4 @@
-<h1 style="font-size: 60px;"> SHIBNATH HANSDA 👋 </h1>
+<h1 style="font-size: 60px;"> <b>SHIBNATH HANSDA 👋</b> </h1>
  
 
 <!--
