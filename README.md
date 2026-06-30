@@ -1,74 +1,24 @@
-# Hi there, I'm Hero 👋
 
-### Cybersecurity Analyst | Blue Team & Defensive Security Operations | Python Developer
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ethicalhansda) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@IamShibnathHansda) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Hero24-x) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hansdatechs24@gmail.com) 
 
-Passionate and detail-oriented Cybersecurity Professional specializing in **Defensive Security, Security Monitoring, and Threat Detection**. Backed by an IBM Certification and a strong foundation in Python development, I focus on engineering practical security tools, analyzing system logs, and understanding system internals to build resilient modern cyber defenses.
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat-square&logo=Meta&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Hero24-x&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Hero24-x&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hero24-x&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Hero24-x&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🛡️ Executive Profile
-*   **Background:** B.Com Graduate transitioning into Cybersecurity with dedicated technical training.
-*   **Certification:** IBM Cybersecurity Analyst Certified.
-*   **Core Focus:** SOC Operations, Endpoint Security (EDR), Incident Response Fundamentals, and Vulnerability Assessment.
-*   **Current Focus:** Developing production-ready security tools and expanding advanced Blue-Team methodologies.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 🛠️ Technical Skill Set
-
-### **Cybersecurity & Defensive Ops**
-*   **Security Monitoring & Detection:** Log Analysis, Threat Detection, SIEM Fundamentals
-*   **Endpoint & Network Security:** Endpoint Detection & Response (EDR), Network Security Fundamentals
-*   **Vulnerability Management:** Vulnerability Assessment, Incident Response Fundamentals
-
-### **Programming & Data Engineering**
-*   **Languages:** Python, Bash Scripting, SQL
-*   **Frameworks & Databases:** Flask, SQLite
-
-### **Infrastructure & Tools**
-*   **Operating Systems:** Linux (Ubuntu, Debian), Windows Server/Desktop
-*   **Security Tools:** Wireshark, Nmap, Burp Suite, Metasploit
-*   **DevOps & Version Control:** Git, GitHub
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Hero24-x&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Hero24-x&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📌 Featured Security Projects
-
-### 🚀 **CyberSentinel EDR**
-*A lightweight, full-stack Endpoint Detection & Response platform designed to monitor and secure host systems.*
-*   **Architecture:** Built utilizing Python and Flask for backend telemetry aggregation.
-*   **Key Features:** Real-time Process Monitoring, Threat Detection Engine, File Integrity Monitoring (FIM).
-*   **Operations:** Features a robust Security Event Logging system, Alert Management pipeline, and an interactive Security Reporting Dashboard.
-
-### 🔍 **Threat Intelligence Dashboard**
-*An analytical security intelligence platform engineered for proactive threat posture management.*
-*   **Key Features:** Automated monitoring of Indicators of Compromise (IoCs), threat landscape analysis, and dynamic security data visualization.
-
-### 📋 **Log Analyzer**
-*A high-performance Python-based utility designed for automated log parsing and auditing.*
-*   **Key Features:** Structured parsing of system/security logs, anomaly detection, and automated alerting for suspicious or malicious activity.
-
----
-
-## 📊 GitHub Statistics
-
-*(Optional: Place your GitHub stats cards/widgets here if you use them)*
-
----
-
-## 🎯 Active Learning Roadmap
-*   Advanced Security Operations Center (SOC) Workflows
-*   Enterprise-grade EDR & Threat Hunting Methodologies
-*   Digital Forensics & Incident Response (DFIR)
-*   SIEM Architecture & Engineering (Splunk/Elastic)
-*   Cloud Security Operations (AWS/Azure)
-
----
-
-## 📫 Let's Connect
-*   **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
-*   **GitHub:** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-
----
-
-> *"Cybersecurity is not merely about identifying vulnerabilities; it is about deeply understanding system internals, mitigating risk, and engineering resilient defenses."*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
