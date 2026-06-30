@@ -1,108 +1,74 @@
-# Hi there 👋, I'm Hero
+# Hi there, I'm Hero 👋
 
-### Cybersecurity Enthusiast | Blue Team Learner | Python Developer
+### Cybersecurity Analyst | Blue Team & Defensive Security Operations | Python Developer
 
-I am a cybersecurity enthusiast focused on security monitoring, threat detection, endpoint security, and defensive security operations. I enjoy building practical security tools, exploring system internals, and developing projects that strengthen my understanding of modern cyber defense techniques.
-
----
-
-## 🚀 About Me
-
-* 🎓 B.Com Graduate
-* 🛡️ IBM Cybersecurity Analyst Certified
-* 💻 Passionate about Cybersecurity, Linux, and Python
-* 🔍 Interested in SOC Operations, Threat Detection, and Endpoint Security
-* 🌱 Currently building cybersecurity projects and expanding my blue-team skillset
-* 📚 Continuously learning security technologies and industry best practices
+Passionate and detail-oriented Cybersecurity Professional specializing in **Defensive Security, Security Monitoring, and Threat Detection**. Backed by an IBM Certification and a strong foundation in Python development, I focus on engineering practical security tools, analyzing system logs, and understanding system internals to build resilient modern cyber defenses.
 
 ---
 
-## 🛠️ Technical Skills
-
-### Cybersecurity
-
-* Security Monitoring
-* Threat Detection
-* Log Analysis
-* Incident Response Fundamentals
-* Vulnerability Assessment
-* Endpoint Security
-* Network Security Fundamentals
-
-### Programming & Scripting
-
-* Python
-* Bash
-* SQL
-
-### Operating Systems
-
-* Linux
-* Ubuntu
-* Debian
-* Windows
-
-### Tools & Technologies
-
-* Wireshark
-* Nmap
-* Burp Suite
-* Metasploit
-* Git & GitHub
-* Flask
-* SQLite
+## 🛡️ Executive Profile
+*   **Background:** B.Com Graduate transitioning into Cybersecurity with dedicated technical training.
+*   **Certification:** IBM Cybersecurity Analyst Certified.
+*   **Core Focus:** SOC Operations, Endpoint Security (EDR), Incident Response Fundamentals, and Vulnerability Assessment.
+*   **Current Focus:** Developing production-ready security tools and expanding advanced Blue-Team methodologies.
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Technical Skill Set
 
-### CyberSentinel EDR
+### **Cybersecurity & Defensive Ops**
+*   **Security Monitoring & Detection:** Log Analysis, Threat Detection, SIEM Fundamentals
+*   **Endpoint & Network Security:** Endpoint Detection & Response (EDR), Network Security Fundamentals
+*   **Vulnerability Management:** Vulnerability Assessment, Incident Response Fundamentals
 
-A lightweight Endpoint Detection and Response (EDR) platform built using Python and Flask.
+### **Programming & Data Engineering**
+*   **Languages:** Python, Bash Scripting, SQL
+*   **Frameworks & Databases:** Flask, SQLite
 
-**Features**
+### **Infrastructure & Tools**
+*   **Operating Systems:** Linux (Ubuntu, Debian), Windows Server/Desktop
+*   **Security Tools:** Wireshark, Nmap, Burp Suite, Metasploit
+*   **DevOps & Version Control:** Git, GitHub
 
-* Real-time Process Monitoring
-* Threat Detection Engine
-* File Integrity Monitoring
-* Security Event Logging
-* Alert Management
-* Security Reporting Dashboard
+---
 
-### Threat Intelligence Dashboard
+## 📌 Featured Security Projects
 
-Security intelligence platform for monitoring indicators, analyzing threats, and visualizing security data.
+### 🚀 **CyberSentinel EDR**
+*A lightweight, full-stack Endpoint Detection & Response platform designed to monitor and secure host systems.*
+*   **Architecture:** Built utilizing Python and Flask for backend telemetry aggregation.
+*   **Key Features:** Real-time Process Monitoring, Threat Detection Engine, File Integrity Monitoring (FIM).
+*   **Operations:** Features a robust Security Event Logging system, Alert Management pipeline, and an interactive Security Reporting Dashboard.
 
-### Log Analyzer
+### 🔍 **Threat Intelligence Dashboard**
+*An analytical security intelligence platform engineered for proactive threat posture management.*
+*   **Key Features:** Automated monitoring of Indicators of Compromise (IoCs), threat landscape analysis, and dynamic security data visualization.
 
-A Python-based solution for parsing, analyzing, and detecting suspicious activities from system logs.
+### 📋 **Log Analyzer**
+*A high-performance Python-based utility designed for automated log parsing and auditing.*
+*   **Key Features:** Structured parsing of system/security logs, anomaly detection, and automated alerting for suspicious or malicious activity.
 
 ---
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+*(Optional: Place your GitHub stats cards/widgets here if you use them)*
 
 ---
 
-## 🎯 Current Learning Goals
-
-* Security Operations Center (SOC)
-* Endpoint Detection & Response (EDR)
-* Threat Hunting
-* Digital Forensics
-* SIEM Technologies
-* Cloud Security
+## 🎯 Active Learning Roadmap
+*   Advanced Security Operations Center (SOC) Workflows
+*   Enterprise-grade EDR & Threat Hunting Methodologies
+*   Digital Forensics & Incident Response (DFIR)
+*   SIEM Architecture & Engineering (Splunk/Elastic)
+*   Cloud Security Operations (AWS/Azure)
 
 ---
 
-## 📫 Connect With Me
-
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+## 📫 Let's Connect
+*   **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
+*   **GitHub:** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
 
 ---
 
-> “Cybersecurity is not just about finding vulnerabilities. It is about understanding systems, reducing risk, and building resilient defenses.”
+> *"Cybersecurity is not merely about identifying vulnerabilities; it is about deeply understanding system internals, mitigating risk, and engineering resilient defenses."*
