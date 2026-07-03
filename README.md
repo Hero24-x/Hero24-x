@@ -20,7 +20,7 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Her024-x/Hero24-x/blob/output/github-contribution-grid-snake.svg)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Hero24-x&limit=5&theme=dark&combine_all_yearly_contributions=true)
