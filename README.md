@@ -1,5 +1,5 @@
 # Shibnath Hansda
-### Founder of  Disom Labs  ||  Santali Programmimng Language
+### Founder of  Disom Labs  ||  Santali Programmimng Language.
 
 # 💫 About Me:
 🔭 I’m currently working on  NEW PROGRAMMING LANGUAGE<br>🌱 I’m currently learning OLCHIKI <br>💬 ETHICAL HACKER<br>⚡ Fun fact HAPPY
